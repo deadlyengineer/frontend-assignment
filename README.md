@@ -19,7 +19,7 @@ We understand this design can take a meaningful amount of time to be implemented
 
 You're welcome to use libraries that could help you with this task. Also, feel free to modify any aspect of the code if you think that will make it better.
 
-The data is being provided by [React Query](https://react-query-v3.tanstack.com) in combination with a [Mock Server](https://mswjs.io). The mocked responses can be modified [here](https://github.com/GabeReis/yat-frontend-assignment/blob/main/src/mocks/handlers/pod.ts).
+The data is being provided by [React Query](https://react-query-v3.tanstack.com) in combination with a [Mock Server](https://mswjs.io). The mocked responses can be modified [here](https://github.com/pullidea-dev/frontend-assignment/blob/main/src/mocks/handlers/pod.ts).
 
 
 ### 📚 Resources
